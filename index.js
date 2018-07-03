@@ -20,7 +20,7 @@ function makeInt(a) {
   return parseInt(a, 10); 
 }
 function preserveDecimal(a) {
-  var a = 2.222;
+  a = 2.222;
   return parseFloat(a);
 }
 function preserveDecimal(a, sfsfdfdfs){
