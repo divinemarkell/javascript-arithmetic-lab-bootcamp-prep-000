@@ -23,5 +23,5 @@ function preserveDecimal(a) {
  if (a = 2.222)
   return parseFloat(a);
 else
- return parseInt(a, 'sldkjflksjf')
+ return parseInt('sldkjflksjf')
 }
