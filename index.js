@@ -22,7 +22,6 @@ function makeInt(a) {
 function preserveDecimal(a) {
   a = 2.222;
   return parseFloat(a);
-}
-function preserveDecimal(a) {
-  return parseFloat ("asdedesfsrfg")
+ if (a = "frsfgsgrg")
+ return true 
 }
