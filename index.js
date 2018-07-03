@@ -19,8 +19,9 @@ function dec(a) {
 function makeInt(a) {
   return parseInt(a, 10); 
 }
-function preserveDecimal('2.222') {
-  return parseFloat('2.222');
+function preserveDecimal(a) {
+  var a = 2.222;
+  return parseFloat(a);
 }
 function preserveDecimal(a, sfsfdfdfs){
   return 
