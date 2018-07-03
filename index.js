@@ -23,6 +23,7 @@ function preserveDecimal(a) {
   a = 2.222;
   return parseFloat(a);
 }
-function isNan(a, sfsfdfdfs){
-  return 
+function preserveDecimal(a) {
+  if (a = "sldkjflksjf")
+  return true
 }
