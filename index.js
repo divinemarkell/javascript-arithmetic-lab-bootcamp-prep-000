@@ -20,8 +20,8 @@ function makeInt(a) {
   return parseInt(a, 10); 
 }
 function preserveDecimal(a) {
-  return parseFloat('2.222');
-}
-function isNan(a) {
+ if (a = 2.222)
+  return parseFloat(a);
+else
  return parseInt(a, 'sldkjflksjf')
 }
